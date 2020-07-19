@@ -1,0 +1,15 @@
+{
+	"name": "custom-rest",
+	"title": "Custom Rest and Hit Die Healing for D&D5e",
+	"description": "Changes Hit Die rolls in the dnd5e system to only add the Constitution modifier upon treating of the wounds, and long rests to only allow healing via hit dice",
+	"systems": ["dnd5e"],
+	"version": "0.0.1",
+	"author": "Otávio Lhamas",
+	"esmodules": [
+	  "custom-rest.js"
+	],
+	"minimumCoreVersion": "0.6.4",
+	"compatibleCoreVersion": "0.6.4"
+  }
+  
+   
